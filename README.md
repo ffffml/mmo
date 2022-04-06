@@ -1,2 +1,2 @@
 # mmo
-homework
+work of class mmo
